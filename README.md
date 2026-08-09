@@ -55,5 +55,5 @@ O uso de ferramentas de IA foi utilizado para otimizar a estruturação do códi
 ---
 
 ## Links e Entregáveis
-* **Vídeo de Apresentação:** [Insira o link do YouTube aqui]
+* **Vídeo de Apresentação:** https://www.youtube.com/watch?v=E3lOXR5jnpA
 * **Jogue no Navegador (WebGL):** (https://martygabrielus.itch.io/silent-hill-the-view-desafio-vortex)
