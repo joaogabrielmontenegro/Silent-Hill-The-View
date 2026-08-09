@@ -54,7 +54,9 @@ O uso de ferramentas de IA foi utilizado para otimizar a estruturação do códi
 
 ---
 
-obs: a sensibilidade na hora de movimentar a câmera (clicando com o botão esquerdo do mouse) está um pouco alta nessa build do itch . io, na unity não estava assim.
+obs: a sensibilidade na hora de movimentar a câmera (clicando com o botão esquerdo do mouse) está um pouco alta nessa build do itch . io, na unity não estava assim. 
+
+foi bem dificil fazer tudo ficar numa duração de 6min, cortei um pouco a introdução no youtube (pois meio que ja tem essas informações no forms e aqui no github)
 
 ## Links e Entregáveis
 * **Vídeo de Apresentação:** https://www.youtube.com/watch?v=E3lOXR5jnpA
