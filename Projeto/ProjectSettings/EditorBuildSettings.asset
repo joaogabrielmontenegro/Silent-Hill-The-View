@@ -4,5 +4,59 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MenuInicial.unity
+    guid: e1db474c270cd6245aae5f047f3627f3
+  - enabled: 1
+    path: Assets/cena-1.unity
+    guid: 44dc3cad2dbd1d9429a247c833c1a0c8
+  - enabled: 1
+    path: Assets/cena-2.unity
+    guid: c955a59908a34e040aca6bf3cd5f3505
+  - enabled: 1
+    path: Assets/cena3.unity
+    guid: 36827b69d090d1546a1526e9c58b7c10
+  - enabled: 1
+    path: Assets/cena-4.unity
+    guid: 865dda718cf700d409bf5ade986676f6
+  - enabled: 1
+    path: "Assets/cena-5-terror-come\xE7a.unity"
+    guid: a4a9eeef7c43598439f735bda6d4885d
+  - enabled: 1
+    path: Assets/cena-6-run.unity
+    guid: 11d15255eb6cc534aae43738cbbaa7e0
+  - enabled: 1
+    path: Assets/cena-7-death.unity
+    guid: 082c10f6060d967478ddf7cded3bb4fb
+  - enabled: 1
+    path: Assets/cena-8-reborn.unity
+    guid: b0b02aae746effe45bfef55fc4c720be
+  - enabled: 1
+    path: Assets/cena-9.unity
+    guid: 28abcfec7fcd8b74e8025944c04978e0
+  - enabled: 1
+    path: Assets/cena-10.unity
+    guid: eb3af8d7f1c2ddc47b4203fd6ca4a4e3
+  - enabled: 1
+    path: Assets/cena-11-jumpscare.unity
+    guid: 75083586c52332342b7837c392eb0a27
+  - enabled: 1
+    path: Assets/cena-12.unity
+    guid: 922e3756097185b4e95933d46fd44a6c
+  - enabled: 1
+    path: Assets/cena-13-run.unity
+    guid: ceffaba2d54b5234cbfbfa8c775b675c
+  - enabled: 1
+    path: Assets/cena-14-over.unity
+    guid: a8ba30fe7d37bec4094f62d9914b5680
+  - enabled: 1
+    path: Assets/cena-15-looping.unity
+    guid: 0eb090300f605c9459b6b2243664dcca
+  - enabled: 1
+    path: Assets/end-cicle.unity
+    guid: 613790876a643a148a88915e53bf918d
+  - enabled: 1
+    path: Assets/final.unity
+    guid: 8abc23872cf8b2d4c82b0e9412fd0079
   m_configObjects: {}

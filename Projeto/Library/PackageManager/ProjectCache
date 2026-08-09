@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 639215539277039313
-    m_Hash: 2817604461
+      ticks: 639218114562659985
+    m_Hash: 972995620
   m_LockFileStatus:
     m_FilePath: "C:/Users/T-GAMER/OneDrive/\xC1rea de Trabalho/Vortex-Desafio-SilentHill/Projeto/Packages/packages-lock.json"
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 639215539277109780
-    m_Hash: 864955750
+      ticks: 639218114562707450
+    m_Hash: 906404409
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -268,6 +268,129 @@ m_ResolvedPackages:
     compatibilityLevel: 0
     minimumPackageVersion: 3.5.4
     minimumUnityVersion: 2019.4.19f1
+  compliance:
+    status: 0
+    violation:
+      scopePatternExpression: 
+      message: 
+      readMoreLink: 
+- packageId: com.unity.ugui@2.5.0
+  testable: 0
+  isDirectDependency: 1
+  isInstalled: 1
+  version: 2.5.0
+  source: 2
+  resolvedPath: "C:\\Users\\T-GAMER\\OneDrive\\\xC1rea de Trabalho\\Vortex-Desafio-SilentHill\\Projeto\\Library\\PackageCache\\com.unity.ugui@f2d87ebaaa32"
+  assetPath: Packages/com.unity.ugui
+  name: com.unity.ugui
+  displayName: uGUI
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: "uGUI (Unity UI) is a set of tools for developing user interfaces
+    for games and applications. It is a GameObject-based UI system that uses Components
+    and the Game View to arrange, position, and style user interfaces. \u200B You
+    cannot use Unity UI to create or change user interfaces in the Unity Editor."
+  errors: []
+  versions:
+    all:
+    - 2.5.0
+    compatible:
+    - 2.5.0
+    recommended: 2.5.0
+    deprecated: []
+  dependencies:
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.audio
+    version: 1.0.0
+  - name: com.unity.modules.physics2d
+    version: 1.0.0
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.audio
+    version: 1.0.0
+  - name: com.unity.modules.physics2d
+    version: 1.0.0
+  - name: com.unity.modules.physicscore2d
+    version: 1.0.0
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  keywords:
+  - UI
+  - ugui
+  - Unity UI
+  - Canvas
+  - TextMeshPro
+  - TextMesh Pro
+  - Text
+  - TMP
+  - SDF
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    isUnityRegistry: 1
+    capabilities: 7
+    configSource: 0
+    compliance:
+      status: 0
+      violations: []
+  hideInEditor: 1
+  entitlements:
+    licensingModel: 0
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 2.5.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+    isDiscoverable: 1
+  isDeprecated: 0
+  deprecationMessage: 
+  git:
+    hash: 
+    revision: 
+  upmReserved: 
+  signature:
+    status: 0
+    reason: 
+    attestation:
+      format: 
+      publishingChannel: 
+      entitlementKeys: []
+      ownerOrgName: 
+      ownerOrgId: 
+      publisherName: 
+    errorCode: 
+  assetStore:
+    productId: 
+  fingerprint: f2d87ebaaa3289c3dce569c5f67c9537aa5f41c4
+  editorCompatibility:
+    compatibilityLevel: 0
+    minimumPackageVersion: 2.5.0
+    minimumUnityVersion: 6000.5
   compliance:
     status: 0
     violation:
