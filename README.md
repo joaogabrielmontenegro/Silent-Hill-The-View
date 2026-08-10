@@ -22,6 +22,21 @@ O jogo foi desenvolvido na Unity (Versão 6000.3.20f1 LTS) e estruturado em múl
 * Trilha sonora contínua e imersiva.
 * Sistema de looping do mapa (portas de teletransporte).
 
+* Algumas imagens do jogo:
+
+<img width="1640" height="826" alt="image" src="https://github.com/user-attachments/assets/71f27765-a830-4e39-80cd-f11dbdb52ee5" />
+
+<img width="1632" height="822" alt="image" src="https://github.com/user-attachments/assets/21603d2a-4dda-478e-8fbe-bd16beddf181" />
+
+<img width="1636" height="824" alt="image" src="https://github.com/user-attachments/assets/3a7bc9ec-a43b-4354-a111-b13143ea8a53" />
+
+<img width="1630" height="829" alt="image" src="https://github.com/user-attachments/assets/f2678ffc-99da-48ca-9ac4-7e0515ee02d4" />
+
+<img width="1635" height="820" alt="image" src="https://github.com/user-attachments/assets/798238fd-4e1d-46d2-9839-878628f7454c" />
+
+
+
+
 ---
 
 ## Diário de Bordo da Inteligência Artificial
